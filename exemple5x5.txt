@@ -1,0 +1,12 @@
+304   0  56   0 304
+
+  0  56   0  56   0
+
+ 56   0  64   0  56
+
+  0  56   0  56   0
+
+304   0  56   0 304
+
+
+The number of solutions for every starting point on the 5x5 board; totalling 1728.
